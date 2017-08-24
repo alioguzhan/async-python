@@ -1,7 +1,6 @@
 https://google.com/
 http://httpbin.org/status/200
-http://httpbin.org/delay/5
-http://httpbin.org.tr/status/500
+http://httpbin.org/status/500
 https://jsonplaceholder.typicode.com/posts/20
 http://httpbin.org/status/404
 
