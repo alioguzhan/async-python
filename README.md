@@ -21,3 +21,7 @@ To make things work,
 And finaly to just run main file:
 
 `python3 main.py`
+
+An Example output would be:
+
+![Example Output](example.png)
